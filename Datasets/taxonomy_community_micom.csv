@@ -1,0 +1,8 @@
+id;genus;species;reactions;metabolites;file;abundance
+AA1;Stenotrophomonas;Stenotrophomonas maltophilia;2263;1513;../Models/12_gap_filled/AA1_filled.xml;16
+AA2;Brucella;Brucella pituitosa;2671;1792;../Models/12_gap_filled/AA2_filled.xml;5
+AA3;Curtobacterium;Curtobacterium pusillum;2218;1498;../Models/12_gap_filled/AA3_filled.xml;8
+AA4;Enterobacter;Enterobacter ludwigii;2795;1757;../Models/12_gap_filled/AA4_deleted_duplicates.xml;65
+AA5;Chryseobacterium;Chryseobacterium indologenes;2106;1444;../Models/12_gap_filled/AA5_filled.xml;1
+AA6;Herbaspirillum;Herbaspirillum robiniae;2580;1687;../Models/12_gap_filled/AA6_filled.xml;2
+AA7;Pseudomonas;Pseudomonas putida;2526;1658;../Models/12_gap_filled/AA7_filled.xml;3
