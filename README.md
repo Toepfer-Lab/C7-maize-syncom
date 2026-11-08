@@ -11,7 +11,7 @@ There are 4 main folders:
    * in_silico_data: in silico results from jupyter notebooks, prepared as csv files for easier figure creation
    * in_vitro_data: in vitro results from the supplementary Tables, prepared as csv files to generate figures
    * Medium: csv files that contain different media composition
-2. Models, i.e. metabolic models as .xml files (1. after creation with carveme and 2. after curation, used for all analyses as well as the community models, i.e. C6 drop-out and C7 models)
+2. Models, i.e. metabolic models as .xml files (1. after creation with carveme and 2. after curation, used for all analyses as well as the drop-out community models (C6) as .pickles)
 3. Reports, i.e. MEMOTE and MACAW reports to check model quality 
 4. Scripts, i.e. Jupyter Notebooks that contain all analyses and simulations as well as a python file that contains functions that are used in multiple notebooks
 
